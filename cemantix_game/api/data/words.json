@@ -1,0 +1,15 @@
+
+{
+  "secretWords": {
+    "secretWord1": {
+      "0-10%": ["word1", "word2"],
+      "10-20%": ["word3", "word4"],
+      "90-100%": ["word9", "word10"]
+    },
+    "secretWord2": {
+      "0-10%": ["word11", "word12"],
+      "10-20%": ["word13", "word14"],
+      "90-100%": ["word19", "word20"]
+    }
+  }
+}
